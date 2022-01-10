@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MacProje/my-app1/static/css/main.1fd7ae30.chunk.css",
+    "main.js": "/MacProje/my-app1/static/js/main.95e3d703.chunk.js",
+    "main.js.map": "/MacProje/my-app1/static/js/main.95e3d703.chunk.js.map",
+    "runtime-main.js": "/MacProje/my-app1/static/js/runtime-main.b0541b92.js",
+    "runtime-main.js.map": "/MacProje/my-app1/static/js/runtime-main.b0541b92.js.map",
+    "static/js/2.3a2ea497.chunk.js": "/MacProje/my-app1/static/js/2.3a2ea497.chunk.js",
+    "static/js/2.3a2ea497.chunk.js.map": "/MacProje/my-app1/static/js/2.3a2ea497.chunk.js.map",
+    "index.html": "/MacProje/my-app1/index.html",
+    "static/css/main.1fd7ae30.chunk.css.map": "/MacProje/my-app1/static/css/main.1fd7ae30.chunk.css.map",
+    "static/js/2.3a2ea497.chunk.js.LICENSE.txt": "/MacProje/my-app1/static/js/2.3a2ea497.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0541b92.js",
+    "static/js/2.3a2ea497.chunk.js",
+    "static/css/main.1fd7ae30.chunk.css",
+    "static/js/main.95e3d703.chunk.js"
+  ]
+}
